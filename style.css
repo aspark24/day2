@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+*{
+    margin: 10px;
+}
+
+h1{
+    color: white;
+    background-color: black;
+    font-family: 'Varela Round';
+    font-weight: bolder;
+    font-size: 40px;
+}
+
+.aqua-text{
+    color: aqua;
+}
+
+h2{
+    color: white;
+    background-color: purple;
+    text-align: center;
+    font-family: 'Varela Round';
+    font-style: italic;
+    font-size: 25px;
+}
+
+h3{
+    color: black;
+    background-color: cornflowerblue;
+    text-align: right;
+    font-weight: 100;
+    font-family: 'Varela Round';
+    font-weight: 50px;
+    font-size: 20px;
+    text-decoration: underline;
+}
